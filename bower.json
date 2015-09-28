@@ -1,0 +1,20 @@
+{
+  "name": "iss-landing",
+  "version": "0.0.0",
+  "authors": [
+    "Dennis Haulund Nielsen <dhni@nodes.dk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "slick-carousel": "~1.5.8"
+  }
+}
