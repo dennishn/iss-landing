@@ -21,14 +21,22 @@ $brand-info:                    #56acc6 !default;
 $brand-warning:                 #d79b4e !default;
 $brand-danger:                  #df4660 !default;
 
+$primary-color:					#00f77f !default;
+
+$secondary-color:				#05222f !default;
+$secondary-color-dark:			#131016 !default;
+$secondary-color-light:			#4c8997 !default;
+
+$white:							#fff !default;
+
 //== Scaffolding
 //
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:                       #ebebeb !default;
+$body-bg:                       #fff !default;
 //** Global text color on `<body>`.
-$text-color:                    #474747 !default;
+$text-color:                    #000 !default;
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
